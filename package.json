@@ -22,7 +22,9 @@
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "babel-plugin-styled-components": "^2.0.1"
+    "babel-plugin-styled-components": "^2.0.2",
+    "eslint": "^7.32.0",
+    "styled-components.macro": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
